@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <omp.h>
+#define N 1000
+
+int main(){
+
+	int i, j, a[N][N];
+	omp_set_num_threads(4);
+#pragma omp parallel private(i, j)
+{
+	#pragma omp for
+	for(i=0;i<N;i++)
+		for(j=i;j<N;j++)
+			a[i][j] = i+j;
+	
+	#pragma omp for
+	for(i=0;i<N;i++)
+		for(j=0;j<i;j++)
+			a[i][j] = i-j;
+
+}
+}
