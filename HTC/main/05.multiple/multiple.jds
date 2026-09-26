@@ -1,9 +1,0 @@
-executable = count.sh
-universe = vanilla
-arguments = 1 10
-
-output = out.$(Process).txt
-error = error.$(Process).txt
-log = log.($Process).txt
-
-queue 10
