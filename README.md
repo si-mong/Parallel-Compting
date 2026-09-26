@@ -57,11 +57,11 @@ Linux 기반 환경에서 Pthreads, OpenMP, MPI, CUDA 등을 활용하여 병렬
 | 6주차 | MPI I | [MPI](./MPI) |
 | 7주차 | MPI II | [MPI](./MPI) |
 | 8주차 | 중간고사 | — |
-| 9주차 | CUDA I | (예정) |
-| 10주차 | CUDA II | (예정) |
-| 11주차 | Advanced Parallel Computing Architecture / OpenMP III | (예정) |
-| 12주차 | Quantum Parallelism I / MPI III | (예정) |
-| 13주차 | Quantum Parallelism II / CUDA III | (예정) |
+| 9주차 | CUDA I | — |
+| 10주차 | CUDA II | — |
+| 11주차 | Advanced Parallel Computing Architecture / OpenMP III | — |
+| 12주차 | Quantum Parallelism I / MPI III | — |
+| 13주차 | Quantum Parallelism II / CUDA III | — |
 | 14주차 | Project Presentation | — |
 | 15주차 | 기말고사 | — |
 
