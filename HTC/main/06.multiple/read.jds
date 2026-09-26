@@ -1,0 +1,10 @@
+executable = read.sh
+universe = vanilla
+
+input = file.txt
+output = out.txt
+error = error.txt
+log = log.txt
+
+initialdir = run_$(Process)
+queue 2

@@ -1,0 +1,8 @@
+executable = count.sh
+universe = vanilla
+arguments = 1 10
+output = out.txt
+error = error.txt
+log = log.txt
+queue 10
+

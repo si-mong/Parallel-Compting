@@ -1,0 +1,13 @@
+executable = read.sh
+universe = vanilla
+
+input = file.txt
+output = out.txt
+error = error.txt
+log = log.txt
+
+initialdir = run_1
+queue
+
+initialdir = run_2
+queue

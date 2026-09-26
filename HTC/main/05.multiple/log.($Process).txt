@@ -1,0 +1,820 @@
+000 (007.000.000) 2026-05-13 17:24:47 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (007.001.000) 2026-05-13 17:24:47 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (007.002.000) 2026-05-13 17:24:47 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (007.003.000) 2026-05-13 17:24:47 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (007.004.000) 2026-05-13 17:24:47 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (007.005.000) 2026-05-13 17:24:47 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (007.006.000) 2026-05-13 17:24:47 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (007.007.000) 2026-05-13 17:24:47 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (007.008.000) 2026-05-13 17:24:47 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (007.009.000) 2026-05-13 17:24:47 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+040 (007.000.000) 2026-05-13 17:24:47 Started transferring input files
+	Transferring to host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=slot1_1_1295_31ce_15>
+...
+040 (007.001.000) 2026-05-13 17:24:47 Started transferring input files
+	Transferring to host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=slot1_1_1294_7d6e_14>
+...
+040 (007.002.000) 2026-05-13 17:24:47 Started transferring input files
+	Transferring to host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=slot1_2_1295_31ce_16>
+...
+040 (007.000.000) 2026-05-13 17:24:47 Finished transferring input files
+...
+040 (007.002.000) 2026-05-13 17:24:47 Finished transferring input files
+...
+040 (007.003.000) 2026-05-13 17:24:47 Started transferring input files
+	Transferring to host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=slot1_2_1294_7d6e_15>
+...
+040 (007.001.000) 2026-05-13 17:24:47 Finished transferring input files
+...
+040 (007.003.000) 2026-05-13 17:24:47 Finished transferring input files
+...
+040 (007.004.000) 2026-05-13 17:24:47 Started transferring input files
+	Transferring to host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=slot1_3_1295_31ce_17>
+...
+040 (007.004.000) 2026-05-13 17:24:47 Finished transferring input files
+...
+040 (007.005.000) 2026-05-13 17:24:47 Started transferring input files
+	Transferring to host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=slot1_3_1294_7d6e_16>
+...
+040 (007.005.000) 2026-05-13 17:24:47 Finished transferring input files
+...
+040 (007.006.000) 2026-05-13 17:24:47 Started transferring input files
+	Transferring to host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=slot1_4_1295_31ce_18>
+...
+040 (007.006.000) 2026-05-13 17:24:47 Finished transferring input files
+...
+040 (007.007.000) 2026-05-13 17:24:47 Started transferring input files
+	Transferring to host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=slot1_4_1294_7d6e_17>
+...
+040 (007.007.000) 2026-05-13 17:24:47 Finished transferring input files
+...
+001 (007.001.000) 2026-05-13 17:24:48 Job executing on host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=startd_830_e3b2>
+	SlotName: slot1_1@work1.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2194/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (007.000.000) 2026-05-13 17:24:48 Job executing on host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=startd_827_d4e9>
+	SlotName: slot1_1@work2.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2195/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (007.002.000) 2026-05-13 17:24:48 Job executing on host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=startd_827_d4e9>
+	SlotName: slot1_2@work2.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2196/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (007.004.000) 2026-05-13 17:24:48 Job executing on host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=startd_827_d4e9>
+	SlotName: slot1_3@work2.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2198/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (007.003.000) 2026-05-13 17:24:48 Job executing on host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=startd_830_e3b2>
+	SlotName: slot1_2@work1.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2195/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (007.005.000) 2026-05-13 17:24:48 Job executing on host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=startd_830_e3b2>
+	SlotName: slot1_3@work1.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2197/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (007.006.000) 2026-05-13 17:24:48 Job executing on host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=startd_827_d4e9>
+	SlotName: slot1_4@work2.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2200/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (007.007.000) 2026-05-13 17:24:48 Job executing on host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=startd_830_e3b2>
+	SlotName: slot1_4@work1.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2199/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+006 (007.000.000) 2026-05-13 17:24:48 Image size of job updated: 280
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (007.004.000) 2026-05-13 17:24:48 Image size of job updated: 280
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (007.002.000) 2026-05-13 17:24:48 Image size of job updated: 248
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (007.006.000) 2026-05-13 17:24:48 Image size of job updated: 16
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (007.000.000) 2026-05-13 17:24:48 Started transferring output files
+...
+040 (007.000.000) 2026-05-13 17:24:48 Finished transferring output files
+...
+040 (007.004.000) 2026-05-13 17:24:48 Started transferring output files
+...
+040 (007.002.000) 2026-05-13 17:24:48 Started transferring output files
+...
+040 (007.002.000) 2026-05-13 17:24:48 Finished transferring output files
+...
+040 (007.006.000) 2026-05-13 17:24:48 Started transferring output files
+...
+040 (007.004.000) 2026-05-13 17:24:48 Finished transferring output files
+...
+040 (007.006.000) 2026-05-13 17:24:48 Finished transferring output files
+...
+005 (007.000.000) 2026-05-13 17:24:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	163  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	163  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+005 (007.002.000) 2026-05-13 17:24:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	163  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	163  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+005 (007.004.000) 2026-05-13 17:24:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	163  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	163  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+005 (007.006.000) 2026-05-13 17:24:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	163  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	163  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+040 (007.008.000) 2026-05-13 17:24:48 Started transferring input files
+	Transferring to host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=slot1_1_1295_31ce_19>
+...
+040 (007.008.000) 2026-05-13 17:24:48 Finished transferring input files
+...
+040 (007.009.000) 2026-05-13 17:24:48 Started transferring input files
+	Transferring to host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=slot1_2_1295_31ce_20>
+...
+040 (007.009.000) 2026-05-13 17:24:48 Finished transferring input files
+...
+006 (007.005.000) 2026-05-13 17:24:48 Image size of job updated: 248
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (007.007.000) 2026-05-13 17:24:48 Image size of job updated: 248
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (007.003.000) 2026-05-13 17:24:48 Image size of job updated: 248
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (007.001.000) 2026-05-13 17:24:48 Image size of job updated: 280
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (007.007.000) 2026-05-13 17:24:48 Started transferring output files
+...
+040 (007.007.000) 2026-05-13 17:24:48 Finished transferring output files
+...
+040 (007.003.000) 2026-05-13 17:24:48 Started transferring output files
+...
+040 (007.005.000) 2026-05-13 17:24:48 Started transferring output files
+...
+040 (007.001.000) 2026-05-13 17:24:48 Started transferring output files
+...
+040 (007.003.000) 2026-05-13 17:24:48 Finished transferring output files
+...
+040 (007.005.000) 2026-05-13 17:24:48 Finished transferring output files
+...
+040 (007.001.000) 2026-05-13 17:24:48 Finished transferring output files
+...
+005 (007.007.000) 2026-05-13 17:24:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	163  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	163  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+005 (007.003.000) 2026-05-13 17:24:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	163  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	163  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+005 (007.001.000) 2026-05-13 17:24:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	163  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	163  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+005 (007.005.000) 2026-05-13 17:24:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	163  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	163  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+001 (007.009.000) 2026-05-13 17:24:49 Job executing on host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=startd_827_d4e9>
+	SlotName: slot1_2@work2.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2224/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (007.008.000) 2026-05-13 17:24:49 Job executing on host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=startd_827_d4e9>
+	SlotName: slot1_1@work2.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2223/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+006 (007.009.000) 2026-05-13 17:24:49 Image size of job updated: 92
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (007.008.000) 2026-05-13 17:24:49 Image size of job updated: 252
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (007.009.000) 2026-05-13 17:24:49 Started transferring output files
+...
+040 (007.008.000) 2026-05-13 17:24:49 Started transferring output files
+...
+040 (007.008.000) 2026-05-13 17:24:49 Finished transferring output files
+...
+040 (007.009.000) 2026-05-13 17:24:49 Finished transferring output files
+...
+005 (007.009.000) 2026-05-13 17:24:49 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	163  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	163  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+005 (007.008.000) 2026-05-13 17:24:49 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	163  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	163  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+000 (008.000.000) 2026-05-13 17:25:59 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (008.001.000) 2026-05-13 17:25:59 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (008.002.000) 2026-05-13 17:25:59 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (008.003.000) 2026-05-13 17:25:59 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (008.004.000) 2026-05-13 17:25:59 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (008.005.000) 2026-05-13 17:25:59 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (008.006.000) 2026-05-13 17:25:59 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (008.007.000) 2026-05-13 17:25:59 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (008.008.000) 2026-05-13 17:25:59 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+000 (008.009.000) 2026-05-13 17:25:59 Job submitted from host: <192.168.128.101:9618?addrs=192.168.128.101-9618&alias=main.supercom.org&noUDP&sock=schedd_841_6f3d>
+...
+040 (008.000.000) 2026-05-13 17:26:07 Started transferring input files
+	Transferring to host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=slot1_1_1295_31ce_21>
+...
+040 (008.001.000) 2026-05-13 17:26:07 Started transferring input files
+	Transferring to host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=slot1_1_1294_7d6e_18>
+...
+040 (008.002.000) 2026-05-13 17:26:07 Started transferring input files
+	Transferring to host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=slot1_2_1295_31ce_22>
+...
+040 (008.000.000) 2026-05-13 17:26:07 Finished transferring input files
+...
+040 (008.001.000) 2026-05-13 17:26:07 Finished transferring input files
+...
+040 (008.002.000) 2026-05-13 17:26:07 Finished transferring input files
+...
+040 (008.003.000) 2026-05-13 17:26:07 Started transferring input files
+	Transferring to host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=slot1_2_1294_7d6e_19>
+...
+040 (008.003.000) 2026-05-13 17:26:07 Finished transferring input files
+...
+040 (008.004.000) 2026-05-13 17:26:07 Started transferring input files
+	Transferring to host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=slot1_3_1295_31ce_23>
+...
+040 (008.005.000) 2026-05-13 17:26:07 Started transferring input files
+	Transferring to host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=slot1_3_1294_7d6e_20>
+...
+040 (008.004.000) 2026-05-13 17:26:07 Finished transferring input files
+...
+040 (008.005.000) 2026-05-13 17:26:07 Finished transferring input files
+...
+040 (008.006.000) 2026-05-13 17:26:07 Started transferring input files
+	Transferring to host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=slot1_4_1295_31ce_24>
+...
+040 (008.006.000) 2026-05-13 17:26:07 Finished transferring input files
+...
+040 (008.007.000) 2026-05-13 17:26:07 Started transferring input files
+	Transferring to host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=slot1_4_1294_7d6e_21>
+...
+040 (008.007.000) 2026-05-13 17:26:07 Finished transferring input files
+...
+001 (008.001.000) 2026-05-13 17:26:08 Job executing on host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=startd_830_e3b2>
+	SlotName: slot1_1@work1.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2224/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (008.005.000) 2026-05-13 17:26:08 Job executing on host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=startd_830_e3b2>
+	SlotName: slot1_3@work1.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2227/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (008.003.000) 2026-05-13 17:26:08 Job executing on host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=startd_830_e3b2>
+	SlotName: slot1_2@work1.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2225/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (008.004.000) 2026-05-13 17:26:08 Job executing on host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=startd_827_d4e9>
+	SlotName: slot1_3@work2.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2245/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (008.006.000) 2026-05-13 17:26:08 Job executing on host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=startd_827_d4e9>
+	SlotName: slot1_4@work2.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2247/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (008.007.000) 2026-05-13 17:26:08 Job executing on host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=startd_830_e3b2>
+	SlotName: slot1_4@work1.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2229/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (008.000.000) 2026-05-13 17:26:08 Job executing on host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=startd_827_d4e9>
+	SlotName: slot1_1@work2.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2242/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (008.002.000) 2026-05-13 17:26:08 Job executing on host: <192.168.128.103:9618?addrs=192.168.128.103-9618&alias=work2.supercom.org&noUDP&sock=startd_827_d4e9>
+	SlotName: slot1_2@work2.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2243/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+006 (008.001.000) 2026-05-13 17:26:08 Image size of job updated: 328
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (008.007.000) 2026-05-13 17:26:08 Image size of job updated: 284
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (008.003.000) 2026-05-13 17:26:08 Image size of job updated: 248
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (008.005.000) 2026-05-13 17:26:08 Image size of job updated: 248
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (008.001.000) 2026-05-13 17:26:08 Started transferring output files
+...
+040 (008.001.000) 2026-05-13 17:26:08 Finished transferring output files
+...
+040 (008.007.000) 2026-05-13 17:26:08 Started transferring output files
+...
+040 (008.007.000) 2026-05-13 17:26:08 Finished transferring output files
+...
+040 (008.003.000) 2026-05-13 17:26:08 Started transferring output files
+...
+040 (008.005.000) 2026-05-13 17:26:08 Started transferring output files
+...
+006 (008.002.000) 2026-05-13 17:26:08 Image size of job updated: 284
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (008.004.000) 2026-05-13 17:26:08 Image size of job updated: 276
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (008.006.000) 2026-05-13 17:26:08 Image size of job updated: 280
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (008.000.000) 2026-05-13 17:26:08 Image size of job updated: 12
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (008.002.000) 2026-05-13 17:26:08 Started transferring output files
+...
+040 (008.004.000) 2026-05-13 17:26:08 Started transferring output files
+...
+005 (008.001.000) 2026-05-13 17:26:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	32  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	32  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+040 (008.006.000) 2026-05-13 17:26:08 Started transferring output files
+...
+040 (008.000.000) 2026-05-13 17:26:08 Started transferring output files
+...
+040 (008.003.000) 2026-05-13 17:26:08 Finished transferring output files
+...
+005 (008.007.000) 2026-05-13 17:26:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	32  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	32  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+040 (008.005.000) 2026-05-13 17:26:08 Finished transferring output files
+...
+040 (008.002.000) 2026-05-13 17:26:08 Finished transferring output files
+...
+005 (008.003.000) 2026-05-13 17:26:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	32  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	32  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+040 (008.006.000) 2026-05-13 17:26:08 Finished transferring output files
+...
+040 (008.004.000) 2026-05-13 17:26:08 Finished transferring output files
+...
+040 (008.000.000) 2026-05-13 17:26:08 Finished transferring output files
+...
+040 (008.008.000) 2026-05-13 17:26:08 Started transferring input files
+	Transferring to host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=slot1_1_1294_7d6e_22>
+...
+005 (008.005.000) 2026-05-13 17:26:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	32  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	32  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+005 (008.002.000) 2026-05-13 17:26:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	32  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	32  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+040 (008.008.000) 2026-05-13 17:26:08 Finished transferring input files
+...
+040 (008.009.000) 2026-05-13 17:26:08 Started transferring input files
+	Transferring to host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=slot1_4_1294_7d6e_23>
+...
+040 (008.009.000) 2026-05-13 17:26:08 Finished transferring input files
+...
+005 (008.006.000) 2026-05-13 17:26:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	32  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	32  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+005 (008.004.000) 2026-05-13 17:26:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	32  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	32  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+005 (008.000.000) 2026-05-13 17:26:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	32  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	32  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+001 (008.008.000) 2026-05-13 17:26:09 Job executing on host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=startd_830_e3b2>
+	SlotName: slot1_1@work1.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2324/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+001 (008.009.000) 2026-05-13 17:26:09 Job executing on host: <192.168.128.102:9618?addrs=192.168.128.102-9618&alias=work1.supercom.org&noUDP&sock=startd_830_e3b2>
+	SlotName: slot1_4@work1.supercom.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_2325/scratch"
+	Cpus = 1
+	Disk = 1048576
+	GPUs = 0
+	Memory = 128
+...
+006 (008.008.000) 2026-05-13 17:26:09 Image size of job updated: 344
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (008.009.000) 2026-05-13 17:26:09 Image size of job updated: 88
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (008.008.000) 2026-05-13 17:26:09 Started transferring output files
+...
+040 (008.008.000) 2026-05-13 17:26:09 Finished transferring output files
+...
+040 (008.009.000) 2026-05-13 17:26:09 Started transferring output files
+...
+040 (008.009.000) 2026-05-13 17:26:09 Finished transferring output files
+...
+005 (008.008.000) 2026-05-13 17:26:09 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	32  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	32  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
+005 (008.009.000) 2026-05-13 17:26:09 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	32  -  Run Bytes Sent By Job
+	239  -  Run Bytes Received By Job
+	32  -  Total Bytes Sent By Job
+	239  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       16  1048576   1048576 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0      128       128 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        1                    
+...
