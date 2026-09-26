@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# 컴파일된 실행 파일 (OpenMP)
+*.x
+a.out
+
+# 컴파일된 실행 파일 (Pthreads: 확장자 없는 바이너리)
+Pthreads/ex*
+!Pthreads/ex*.c
+
+# 잘못 생성된 파일
+OpenMP/omp_example_12.
+
+# Vim swap 파일
+*.swp
+*.swo
+*~

@@ -1,0 +1,6 @@
+executable = date.sh
+universe = vanilla
+output = out.txt
+error = error.txt
+log = log.txt
+queue
